@@ -13,7 +13,7 @@ df_cars = pd.read_csv(link)
 
 # TTIRES
 st.title('Semaine 11 : Quête Streamlit')
-st.write("by Caroline Cornelus")
+st.write("by Caroline C)
 
 
 ## SIDEBAR avec FILTRE REGION
